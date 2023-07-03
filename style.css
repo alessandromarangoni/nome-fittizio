@@ -2,3 +2,9 @@ body{
     background-color: #222;
     color: white;
 }
+.cardWidth{
+    width: 100%;
+}
+.backgroundCardsImg{
+    background-color: white;
+}
