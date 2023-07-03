@@ -8,3 +8,9 @@ header{
 .navbar_width{
     max-width: 500px;
 }
+.cardWidth{
+    width: 100%;
+}
+.backgroundCardsImg{
+    background-color: white;
+}
