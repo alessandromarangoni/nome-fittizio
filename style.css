@@ -7,4 +7,6 @@ header{
 
 .navbar_width{
     max-width: 500px;
+}.custom_card{
+    max-width: calc(100% / 3);
 }
