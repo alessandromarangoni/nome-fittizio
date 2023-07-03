@@ -1,10 +1,16 @@
 header{
     min-height: 620px;
-    background-image: url(https://i.ytimg.com/vi/yPuVh1g5HiI/maxresdefault.jpg);
+    background-image: url("https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1671034252.webp");
     background-repeat: repeat;
     background-size: contain;
 }
 
 .navbar_width{
     max-width: 500px;
+}
+.cardWidth{
+    width: 100%;
+}
+.backgroundCardsImg{
+    background-color: white;
 }
